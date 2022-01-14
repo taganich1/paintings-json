@@ -1,0 +1,39 @@
+{
+  "paintings": [
+    {
+      "name": "«Рождение Венеры» Сандро Боттичелли",
+      "id": 1,
+      "initialPrice": "2 000 000 $",
+      "price": "1 000 000 $",
+      "img": "https://i.ibb.co/P1h5Sxp/painting-item.png",
+      "sold": false,
+      "purchased": false
+    },
+    {
+      "name": "«Тайная вечеря»  Леонардо да Винчи",
+      "id": 2,
+      "price": "3 000 000 $",
+      "img": "https://i.ibb.co/hgR0bxX/ae973f6678e037cd297053384aa7dca0-1.png",
+      "sold": false,
+      "purchased": false
+    },
+    {
+      "name": "«Сотворение Адама» Микеланджело",
+      "id": 3,
+      "initialPrice": "5 000 000 $",
+      "price": "6 000 000 $",
+      "img": "https://i.ibb.co/PNWnDTt/image-19-1.png",
+      "sold": false,
+      "purchased": false
+    },
+    {
+      "name": "«Урок анатомии»  Рембрандт",
+      "id": 4,
+      "initialPrice": "5 000 000 $",
+      "price": "6 000 000 $",
+      "img": "https://i.ibb.co/xgNbyNc/20152310142330-1.png",
+      "sold": true,
+      "purchased": false
+    }
+  ]
+}
